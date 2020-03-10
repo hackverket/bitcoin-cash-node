@@ -48,3 +48,4 @@ Disclosure Policy
 -----------------
 
 Disclosure policy is under work, but please contact us at the above channels if you find urgent issues.
+# bitcoin-cash-node
